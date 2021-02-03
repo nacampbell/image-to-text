@@ -12,7 +12,7 @@ A lightweight Python script for copying text from a screenshot.
 * pytesseract\*
 * pyperclip
 
-\* Requires [Google Tesseract OCR](https://github.com/tesseract-ocr/tesseract) under the correct path. See [pytesseract installation](https://pypi.org/project/pytesseract/)
+\* *Requires [Google Tesseract OCR](https://github.com/tesseract-ocr/tesseract) under the correct path. See [pytesseract installation](https://pypi.org/project/pytesseract/)*
 
 
 
