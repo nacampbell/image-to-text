@@ -11,6 +11,7 @@ A lightweight Python script for copying text from a screenshot.
 * pyautogui
 * pytesseract\*
 * pyperclip
+
 \* Requires [Google Tesseract OCR](https://github.com/tesseract-ocr/tesseract) under the correct path. See [pytesseract installation](https://pypi.org/project/pytesseract/)
 
 
