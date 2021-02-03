@@ -21,7 +21,7 @@ A lightweight Python script for copying text from a screenshot.
 
 
 
-### Setting up keyboard shortcut
+### Setting up the keyboard shortcut
 #### Ubuntu 20.04 (GNOME desktop environment)
 1. Open: Settings -> Keyboard Shortcuts
 2. Scroll to bottom and press "+"
