@@ -2,7 +2,9 @@
 A lightweight Python script for copying text from a screenshot.
 
 > ![](image_to_text.gif)
-***
+
+
+
   
 ### Aims
 * Lightweight, non obtrusive - no crazy colours, no click intensive menus
