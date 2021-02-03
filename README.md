@@ -2,7 +2,7 @@
 A lightweight Python script for copying text from a screenshot.
 
 <kbd>
-![](image_to_text.gif)
+<img ![](image_to_text.gif)>
 </kbd>
   
 ### Aims
