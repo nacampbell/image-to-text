@@ -27,13 +27,19 @@ A lightweight Python script for copying text from a screenshot.
 2. Scroll to bottom and press "+"
 3. Add the full path to python and the script
 
-In my case: `/usr/bin/python3 /home/myuser/scripts/image_to_text.py`
+In my case: `/usr/bin/python3 /home/myuser/scripts/image-to_text/image_to_text.py`
 
 4. Choose appropriate short cut keys. For example **Ctrl + Alt + C**
 
 
 
 ### Future Development / Known Issues
+* Testing required on Windows, Mac and other Linux desktop environments
+* Keyboard shortcut setup for other systems
+* Config file to specify pre and post processing settings
+* Speed optimisations
+* Tesseract struggling to handle long passages of text
+* Tesseract struggling to handle pixelated low quality images
 
 
 
