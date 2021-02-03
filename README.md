@@ -41,5 +41,6 @@ A lightweight Python script for copying text from a screenshot.
 * Tesseract struggling to handle long passages of text
 * Tesseract struggling to handle pixelated low quality images
 
-
+#### Thanks to:
+* Stackoverflow user [Brett Lapierre](https://stackoverflow.com/questions/49901928/how-to-take-a-screenshot-with-python-using-a-click-and-drag-method-like-snipping) for a boilerplate example of a click and drag screencapture
 
