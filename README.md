@@ -27,7 +27,7 @@ A lightweight Python script for copying text from a screenshot.
 2. Scroll to bottom and press "+"
 3. Add the full path to python and the script
 
-In my case: /usr/bin/python3 /home/myuser/scripts/image_to_text.py  
+In my case: `/usr/bin/python3 /home/myuser/scripts/image_to_text.py`
 
 4. Choose appropriate short cut keys. For example **Ctrl + Alt + C**
 
