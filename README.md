@@ -9,7 +9,7 @@ A lightweight Python script for copying text from a screenshot.
 ### Dependencies
 * tkinter
 * pyautogui
-* pytesseract\*
+* pytesseract \*
 * pyperclip
 
 \* *Requires [Google Tesseract OCR](https://github.com/tesseract-ocr/tesseract). See [pytesseract installation](https://pypi.org/project/pytesseract/)*
@@ -27,7 +27,7 @@ A lightweight Python script for copying text from a screenshot.
 2. Scroll to bottom and press "+"
 3. Add the full path to python and the script
 
-In my case: `/usr/bin/python3 /home/myuser/scripts/image-to_text/image_to_text.py`
+  Example: `/usr/bin/python3 /home/myuser/scripts/image-to_text/image_to_text.py`
 
 4. Choose appropriate short cut keys. For example **Ctrl + Alt + C**
 
