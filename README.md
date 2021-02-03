@@ -1,9 +1,7 @@
 ## Image to Text
 A lightweight Python script for copying text from a screenshot.
 
-<kbd>
-<img ![](image_to_text.gif)>
-</kbd>
+> ![](image_to_text.gif)
   
 ### Aims
 * Lightweight, non obtrusive - no crazy colours, no click intensive menus
